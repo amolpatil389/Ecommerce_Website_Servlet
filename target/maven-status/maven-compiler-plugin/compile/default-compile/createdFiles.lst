@@ -1,0 +1,11 @@
+com\shop\controller\ProductServlet.class
+com\shop\pojo\Category.class
+com\shop\pojo\Product.class
+com\shop\config\DBConnect.class
+com\shop\controller\CategoryServlet.class
+com\shop\controller\UserServlet.class
+com\shop\dao\UserDao.class
+com\shop\controller\LoginServlet.class
+com\shop\pojo\User.class
+com\shop\dao\CategoryDao.class
+com\shop\dao\ProductDao.class
